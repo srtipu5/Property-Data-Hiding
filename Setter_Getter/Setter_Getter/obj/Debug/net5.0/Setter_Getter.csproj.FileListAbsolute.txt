@@ -1,0 +1,16 @@
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\bin\Debug\net5.0\Setter_Getter.exe
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\bin\Debug\net5.0\Setter_Getter.deps.json
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\bin\Debug\net5.0\Setter_Getter.runtimeconfig.json
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\bin\Debug\net5.0\Setter_Getter.runtimeconfig.dev.json
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\bin\Debug\net5.0\Setter_Getter.dll
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\bin\Debug\net5.0\ref\Setter_Getter.dll
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\bin\Debug\net5.0\Setter_Getter.pdb
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.csprojAssemblyReference.cache
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.AssemblyInfoInputs.cache
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.AssemblyInfo.cs
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.csproj.CoreCompileInputs.cache
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.dll
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\ref\Setter_Getter.dll
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.pdb
+C:\Users\Tipu\Desktop\Data Hiding\Setter_Getter\Setter_Getter\obj\Debug\net5.0\Setter_Getter.genruntimeconfig.cache
